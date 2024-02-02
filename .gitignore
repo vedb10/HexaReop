@@ -5,6 +5,7 @@
 *.log
 
 logs/
+myjava/
 
 # BlueJ files
 *.ctxt
